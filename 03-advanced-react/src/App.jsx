@@ -1,12 +1,10 @@
-import Starter from './tutorial/01-useState/starter/01-error-example';
-import UserStateArray from './tutorial/01-useState/starter/03-useState-array';
-import UseStateObject from './tutorial/01-useState/starter/04-useState-object';
+import MultipleReturnsFetchData from "./tutorial/03-conditional-rendering/starter/02-multiple-returns-fetch-data";
 
 
 function App() {
   return (
     <div className='container'>
-      <UseStateObject />
+      <MultipleReturnsFetchData />
     </div>
   );
 }
